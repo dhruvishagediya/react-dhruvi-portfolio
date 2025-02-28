@@ -1,7 +1,4 @@
-<img width="80%" align="center" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
-<img height="350px" align="right" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/mobile-demo.gif" alt="portfolio mobile demo gif"/>
 
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
 <h2>Portfolio Template</h2>
 
 <pre>
@@ -18,9 +15,7 @@ at GitHub. Check live preview(link below).
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-Check live demonstration <a href="https://dorota1997.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
-
-<img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
+Check live demonstration <a href="https://github.com/dhruvishagediya/react-dhruvi-portfolio"><strong>here</strong></a>
 
 <h3>:books: Getting started</h3>
 
@@ -32,7 +27,7 @@ Check live demonstration <a href="https://dorota1997.github.io/react-frontend-de
 // package.json
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://dorota1997.github.io/react-frontend-dev-portfolio/",   <-- remove/edit this
+  "homepage": "https://github.com/dhruvishagediya/react-dhruvi-portfolio,   <-- remove/edit this
   "version": "0.1.0",
   "private": true,
   "dependencies": {
